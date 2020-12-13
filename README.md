@@ -1,4 +1,4 @@
-# My React Project
+# React Project
 
 ## Project setup
 ```
