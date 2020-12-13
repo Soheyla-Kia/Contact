@@ -1,0 +1,17 @@
+body {
+  direction: rtl;
+  text-align: right !important;
+}
+
+.card-body i {
+  padding: 5px;
+}
+
+.card-body i:hover {
+  cursor: pointer;
+  color: aquamarine;
+}
+
+.fa-times:hover {
+  color: antiquewhite !important;
+}
